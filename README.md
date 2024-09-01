@@ -13,6 +13,7 @@ Discover Patterns: Use data visualization to reveal hidden patterns and correlat
 Time Series Analysis: Examine how the popularity of songs and genres evolves over time.
 
 **Key Features**
+
 Data Cleaning: Handle missing values, outliers, and ensure the dataset is ready for analysis.
 
 Descriptive Statistics: Summarize the dataset to get a high-level understanding of its features.
