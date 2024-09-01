@@ -20,8 +20,12 @@ Correlation Analysis: Explore correlations between different musical features to
 Time Series Analysis: Analyze trends over time to see how music tastes evolve.
 
 **Tools and Libraries**
-Pandas: For data manipulation and analysis./n
+Pandas: For data manipulation and analysis.
+
 NumPy: For numerical operations.
+
 Matplotlib & Seaborn: For data visualization.
+
 Scikit-learn: For statistical analysis and data preprocessing.
-Jupyter Notebook: For interactive data exploration.
+
+Google colab: For interactive data exploration.
