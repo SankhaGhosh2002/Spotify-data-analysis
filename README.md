@@ -14,12 +14,17 @@ Time Series Analysis: Examine how the popularity of songs and genres evolves ove
 
 **Key Features**
 Data Cleaning: Handle missing values, outliers, and ensure the dataset is ready for analysis.
+
 Descriptive Statistics: Summarize the dataset to get a high-level understanding of its features.
+
 Visualizations: Create insightful plots and graphs using libraries like Matplotlib and Seaborn to visualize relationships in the data.
+
 Correlation Analysis: Explore correlations between different musical features to understand their relationships.
+
 Time Series Analysis: Analyze trends over time to see how music tastes evolve.
 
 **Tools and Libraries**
+
 Pandas: For data manipulation and analysis.
 
 NumPy: For numerical operations.
