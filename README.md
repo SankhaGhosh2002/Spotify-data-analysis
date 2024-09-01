@@ -2,9 +2,11 @@
 Welcome to the Spotify Data Analysis &amp; Exploratory Data Analysis (EDA) project! 
 
 Spotify Data Analysis & Exploratory Data Analysis (EDA) 🎧📊 
+
 This repository contains an in-depth analysis of Spotify's music data, focusing on understanding patterns, trends, and insights within the dataset. The project involves data cleaning, visualization, and exploratory data analysis to uncover interesting insights about songs, artists, and genres.
 
 **Project Overview**
+
 Music streaming platforms like Spotify generate vast amounts of data every day. By analyzing this data, we can uncover fascinating insights about music trends, popular genres, and listener preferences. This project uses Spotify's dataset to:
 
 Understand Music Trends: Analyze the characteristics of popular songs, including tempo, danceability, energy, and more.
